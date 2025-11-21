@@ -52,6 +52,13 @@ sql/
 └── Datos.sql          # Datos de prueba
 ```
 
+
+---
+Diagrama UML:
+
+<img width="1508" height="2315" alt="UML - Empresa-DomicilioFiscal" src="https://github.com/user-attachments/assets/15ad897f-4f7a-4c68-aad1-11569e492cf3" />
+
+
 ---
 
 Instalación y Configuración
